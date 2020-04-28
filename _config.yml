@@ -12,7 +12,7 @@ locale                   : "en_IN"
 title                    : "Sinchana S R"
 title_separator          : "-"
 name                     : "Sinchana S R"
-description              : "Student"
+description              : "Data Science Enthusiast"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sinchana.bhat.581"
+  facebook         : "https://www.facebook.com/sinchana.bhat.581"
   foursquare       :
   github           : "sinchubhat"
   gitlab           :
@@ -114,6 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
+  kaggle           : "sinchubhat"
+  medium           : "@sinchu.sr"
 
 
 # Reading Files
